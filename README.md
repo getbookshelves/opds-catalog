@@ -78,10 +78,6 @@ Want to share your personal ebook collection? You can host your own OPDS server:
 - [OPDS 2.0 Spec](https://drafts.opds.io/opds-2.0)
 - [OPDS Search](https://specs.opds.io/opds-1.2#7-search)
 
-## Contributing
-
-Know an OPDS catalog or compatible ebook reader app that should be listed here? Open an issue or submit a pull request.
-
 ## License
 
 This guide is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
