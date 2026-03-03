@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="app-icon.png" alt="BookShelves" width="96" height="96">
+</p>
+
 # OPDS Catalog Guide
+
+> Maintained by [BookShelves](https://getbookshelves.app) — a free ebook reader app for macOS and iOS.
 
 A practical guide to OPDS (Open Publication Distribution System) — the open standard for discovering and downloading ebooks from any compatible reader app.
 
