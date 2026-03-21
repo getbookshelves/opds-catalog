@@ -78,6 +78,11 @@ Want to share your personal ebook collection? You can host your own OPDS server:
 - [OPDS 2.0 Spec](https://drafts.opds.io/opds-2.0)
 - [OPDS Search](https://specs.opds.io/opds-1.2#7-search)
 
+## Further Reading
+
+- [The Best Free eBook Sources Nobody Talks About](https://medium.com/@theopenshelf/the-best-free-ebook-sources-nobody-talks-about-6a3b463b2352) — free ebook sources with OPDS feeds you can browse from your reader
+- [EPUB vs Kindle Format: What You're Actually Missing](https://medium.com/@theopenshelf/epub-vs-kindle-format-what-youre-actually-missing-2e9c3d3b3302) — why open formats like EPUB matter
+
 ## License
 
 This guide is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
